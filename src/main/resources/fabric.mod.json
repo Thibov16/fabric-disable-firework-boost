@@ -8,6 +8,11 @@
   "authors": [
     "Thibov16"
   ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/fabric-disable-firework-boost",
+    "issues": "https://github.com/Thibov16/fabric-disable-firework-boost/issues",
+    "sources": "https://github.com/Thibov16/fabric-disable-firework-boost"
+  },
 
   "license": "The MIT License (MIT)",
   "icon": "assets/disablefireworkboost/icon.png",
